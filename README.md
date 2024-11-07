@@ -1,4 +1,4 @@
-##Developed by Tauseef Ahmad
+Developed by Tauseef Ahmad
 
 The project is not use any part of backend only we using the API call's
 
